@@ -1,0 +1,11 @@
+1. Account is created
+
+2. Git installed
+
+3. created a repository
+
+4. created a folder on desktop
+
+5. Add text files to the folder and save it
+
+6. in desktop folder open git bash
