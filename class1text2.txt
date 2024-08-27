@@ -1,0 +1,4 @@
+1. create a branch in local repository
+2. git checkout -b <branchName>
+3. git branch
+4. git push origin <branchName>
