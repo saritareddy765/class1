@@ -1,0 +1,7 @@
+1. git init
+2. git status
+3. git add <textname>
+4. git status
+5. git commit -m "message"
+6. git remote add origin url
+7. git push -u origin main/master
